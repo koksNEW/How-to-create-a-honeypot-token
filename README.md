@@ -1,3 +1,11 @@
+
+Yo, we’ve got everything you need for top-tier crypto scams: Smart Contracts, Drainers, Sniper Bots, MEV Bots, and, of course, Web3 Development
+
+We’re also testing a new direction—driving traffic to your project, whether it’s phishing or fully legit, we’ll pour traffic 100%. If you’re interested, hit up our manager in the channel with your proposal right away
+
+channel - @HoneymanOne_Community or https://t.me/HoneymanOne_Community
+
+
 # How-to-create-a-honeypot-token
 How to create a honeypot token 
 

